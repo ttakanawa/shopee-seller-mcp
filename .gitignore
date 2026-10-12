@@ -1,0 +1,21 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+pytest-of-*/
+.env
+.env.*
+*.env
+local-data/
+.uv-cache/
+.DS_Store
+
+# Private source documents, review records, fixtures, and build tools.
+/catalog/
+/tests/
+/tools/
+/tmp/
+/PUBLICATION_REVIEW.md
